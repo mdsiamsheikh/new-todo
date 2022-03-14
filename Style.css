@@ -1,0 +1,16 @@
+body{
+    background: #353f5b;
+}
+.container{
+    max-width: 400px;
+    text-align: center;
+}
+.card-title{
+    background: red;
+    color: aliceblue;
+}
+
+
+.collection {
+    color: #000;
+}
